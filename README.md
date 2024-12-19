@@ -6,7 +6,7 @@ Python project using **Computer Vision** and **Pose Estimation** from **OpenCV**
     <img src="images/summary.png" alt="Alt text" width="350">
 </p>
 <p align="center">
-    <img src="images/summary_methodology.png" alt="Alt text" width="350">
+    <img src="images/summary_methodology.png" alt="Alt text" width="1100">
 </p>
 
 ### Notes on the Approach
